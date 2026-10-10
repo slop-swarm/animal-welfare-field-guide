@@ -1,0 +1,35 @@
+# Preventing calf disbudding through polled dairy breeding: evidence note (draft)
+
+**Status:** Draft for review; evidence and transferability need checking.  
+**Decision-maker:** Dairy breeding organisations setting selection and mating priorities for EU/UK Holstein-Friesian populations.  
+**Question:** How should these organisations weigh conventional selection for naturally polledness against genetic gain and genetic diversity, as a long-term way to reduce painful disbudding?
+
+## Bottom line
+
+Selecting for the naturally occurring polled allele can prevent the need to disbud calves that inherit it, but conventional breeding is a multigeneration strategy—not a substitute for pain mitigation for calves still disbudded. A US population simulation illustrates a possible trade-off between reducing the horned allele and progress on other breeding goals, as well as constraints from sire use and inbreeding. In its strictest conventional scheme—using only existing homozygous polled sires—inbreeding reached 17% in Holsteins and 14% in Jerseys after 20 years, versus under 7% in baseline scenarios; gene editing under the same mating scheme yielded 9% and 8%, respectively. In March 2018, the study counted only 3 active homozygous polled Holstein sires and no Jersey sires in the US registry. These are historical model inputs/results, not current EU/UK estimates; in particular, the modeled inbreeding percentages should not be read as directly comparable with current EU/UK populations. This is not an observed EU/UK rollout or calibrated forecast. Local allele-frequency, mating, diversity and adoption data are needed to estimate an achievable trajectory. The share of calves actually born polled in contemporary EU/UK herds is an important evidence gap.
+
+## Welfare rationale and scope
+
+Hot-iron disbudding is painful; the UK Animal Welfare Committee (AWC) identifies this welfare cost while discussing naturally polled cattle and breeding technologies (AWC 2026, cattle section, para. 167). A polled calf does not need horn-bud removal, but polledness does not itself resolve all handling, injury or herd-management issues. This note addresses prevention through conventional selection in horned dairy breeds, especially Holstein-Friesian. It does not assess analgesia protocols (see companion disbudding note), give breeding advice, or make a legal recommendation. Gene editing is mentioned only as context.
+
+## What the modelling says—and does not say
+
+Mueller et al. (2019) simulated US Holstein and Jersey populations over 20 years, comparing conventional breeding strategies with gene-editing scenarios. At baseline, the POLLED allele frequency was estimated at 1.1% in US Holsteins and 2.2% in Jerseys, and in March 2018 just 3 active homozygous polled Holstein sires and no Jersey sires were registered. The article reports that the strictest conventional scheme (only existing homozygous polled sires) produced 17% and 14% inbreeding after 20 years in Holsteins and Jerseys, respectively, versus <7% for baseline scenarios; gene editing in that scheme resulted in 9% and 8%. These figures are tied to a simulated US system and 2018 inputs, not EU/UK predictions. Their work models possible changes in allele frequencies and breeding outcomes, including genetic merit, inbreeding and use of unique sires. It helps identify the shape of the trade-off: selection for polledness can be prioritized, but the pace and cost to other breeding objectives depend on mating and selection design. Results should be reported as scenario outputs, not a promise that a given fraction of EU/UK calves will be polled after a fixed number of years. Population structure, starting allele frequency, available sires, trait weights, and farmer uptake may differ. The simulation cannot establish actual welfare improvement in European herds.
+
+The AWC’s 2026 UK opinion similarly notes that conventional introgression can slow genetic gain, while discussing gene editing as an alternative. That is policy-relevant framing, not a local longitudinal evaluation of polled breeding. Young et al. (2020) documented transmission of an unintended plasmid sequence from a genome-edited hornless founder to four of six offspring. The publisher’s 2020 author correction concerned swapped colour/animal labels in a figure and supplementary tables; it did not change the plasmid-inheritance finding. This is relevant only as a caution that gene editing raises distinct implementation and oversight questions; it is not evidence against conventional selection.
+
+## Decision-relevant outcomes and evidence gaps
+
+For a local breeding plan, report at minimum: (1) baseline polled allele/genotype frequencies and observed proportion of calves born polled by breed and region; (2) projected polled-calf proportion by year under alternative selection intensities and mating plans; (3) correlated progress in health, fertility and production goals; (4) inbreeding and effective sire diversity; and (5) uptake and retention of polled animals. Distinguish genotype/allele frequency from the fraction of calves spared disbudding: inheritance, mating choices, calf retention and management determine the latter.
+
+**Key uncertainty:** I have not identified a representative, recent EU/UK herd dataset in the sources reviewed that establishes the current share of Holstein-Friesian calves born polled. The US simulation cannot fill this empirical gap. An EU/UK estimate and transparent local scenario analysis are prerequisites for claiming a particular timeline or welfare impact.
+
+## Practical implication
+
+Breeding organisations can evaluate polledness as one component of a balanced selection objective and publish associated diversity and genetic-gain trade-offs. This is a long-horizon prevention pathway. Until it materially reduces the number of horned calves, immediate pain mitigation remains important for calves undergoing disbudding.
+
+## Sources
+
+- Animal Welfare Committee (2026), *Opinion on breeding and breeding technologies in commercial livestock agriculture*, cattle section, para. 167. [Official UK publication](https://www.gov.uk/government/publications/animal-welfare-committee-awc-opinion-on-breeding-and-breeding-technologies-in-commercial-livestock-agriculture/animal-welfare-committee-awc-opinion-on-breeding-and-breeding-technologies-in-commercial-livestock-agriculture).
+- Mueller ML et al. (2019), “Comparison of gene editing versus conventional breeding to introgress the POLLED allele into the US dairy cattle population,” *Journal of Dairy Science* 102(5):4215–4226. [DOI: 10.3168/jds.2018-15892](https://doi.org/10.3168/jds.2018-15892). US simulation; transfer to EU/UK is an assumption.
+- Young AE et al. (2020), “Genomic and phenotypic analyses of six offspring of a genome-edited hornless bull,” *Nature Biotechnology* 38:225–232. [DOI: 10.1038/s41587-019-0266-0](https://doi.org/10.1038/s41587-019-0266-0). Gene-editing comparator only. See Young et al. author correction (2020), [DOI: 10.1038/s41587-020-0423-5](https://doi.org/10.1038/s41587-020-0423-5); it corrects figure/table labels.
