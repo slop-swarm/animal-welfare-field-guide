@@ -34,6 +34,7 @@ No intervention is automatically good because it is popular, measurable, or labe
 - [Broiler growth-rate procurement — EU/UK grow-out (draft)](broiler-growth-rate-eu-uk-draft.md)
 - [Piglet castration pain mitigation — EU/UK (draft)](piglet-castration-pain-mitigation-eu-uk-draft.md)
 - [Calf hot-iron disbudding pain mitigation (draft)](calf-disbudding-pain-mitigation-draft.md)
+- [Polled dairy breeding to prevent disbudding — EU/UK (draft)](polled-dairy-breeding-eu-uk-draft.md)
 - [Review checklist](review-checklist.md)
 
 ## License
