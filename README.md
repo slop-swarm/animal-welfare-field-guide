@@ -1,3 +1,36 @@
-# animal-welfare-field-guide
+# Animal welfare field guide
 
-Evidence-first, practical notes for reducing suffering in farmed animals
+Practical, evidence-first notes for reducing suffering in farmed animals. This is a community project, not an endorsement of any intervention or organization. We prioritize work by expected improvement in animals' lives—not by visibility or ease of measurement.
+
+## How to use this guide
+
+Start with a question about a specific population, place, and time horizon. Read the evidence note and its limitations; do not treat a promising mechanism as proof of impact. If evidence is missing or stale, help fill the gap rather than repeating an unsupported claim.
+
+## Prioritization checklist
+
+For each proposed action, record:
+
+1. **Scale:** how many animals are plausibly affected, and for how long?
+2. **Welfare change:** what changes in pain, distress, health, agency, or positive experience? Distinguish outcomes from inputs (e.g., a label or policy).
+3. **Causal evidence:** what supports the claim that this action causes that change? Include contrary findings and uncertainty.
+4. **Additionality and durability:** what would happen otherwise; is change enforced, monitored, and likely to persist?
+5. **Trade-offs:** displacement, rebound, unintended harms, and effects on other animals or people.
+6. **Cost-effectiveness:** compare alternatives using explicit assumptions and ranges, not false precision.
+7. **Confidence and update trigger:** what new evidence would change the conclusion, and when will it be reviewed?
+
+Avoid multiplying optimistic point estimates. Use ranges or qualitative confidence where inputs are weak. Separate empirical claims from value judgments.
+
+## Contributing
+
+Open an issue for a question or propose a short evidence note using [`evidence-note-template.md`](evidence-note-template.md). Cite primary research, systematic reviews, and official data where possible; provide dates and direct links. Summarize in your own words. Mark unresolved claims clearly. Be respectful and welcome corrections.
+
+No intervention is automatically good because it is popular, measurable, or labeled humane. The purpose is better decisions for animals, with transparent uncertainty.
+
+## Contents
+
+- [Evidence note template](evidence-note-template.md)
+- [Review checklist](review-checklist.md)
+
+## License
+
+Unless otherwise noted, text is dedicated to the public domain under CC0 1.0.
