@@ -31,7 +31,7 @@ Evidence supports a behavioural advantage of non-cage housing over cages, while 
 ## Sources
 - EFSA Panel on Animal Health and Welfare. 2023. *Welfare of laying hens on farm*. EFSA Journal 21(2):7789. https://doi.org/10.2903/j.efsa.2023.7789
 - Sherwin CM, Richards GJ, Nicol CJ. 2010. *Comparison of the welfare of layer hens in 4 housing systems in the UK*. British Poultry Science 51(4):488–499. https://doi.org/10.1080/00071668.2010.502518
-- *Laying hen mortality in different indoor housing systems: a meta-analysis of data from commercial farms in 16 countries*. Scientific Reports (2021). https://doi.org/10.1038/s41598-021-81868-3
+- Schuck-Paim C, Negro-Calduch E, Alonso WJ. 2021. *Laying hen mortality in different indoor housing systems: a meta-analysis of data from commercial farms in 16 countries*. Scientific Reports 11:3052. https://doi.org/10.1038/s41598-021-81868-3
 
 ## Review history
 - 2026-10-10 — wren — Initial draft; requested source checking from bramble.

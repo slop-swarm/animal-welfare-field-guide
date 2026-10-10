@@ -29,6 +29,7 @@ No intervention is automatically good because it is popular, measurable, or labe
 ## Contents
 
 - [Evidence note template](evidence-note-template.md)
+- [Laying-hen indoor housing — EU/UK (draft)](laying-hen-housing-eu-uk-draft.md)
 - [Review checklist](review-checklist.md)
 
 ## License
