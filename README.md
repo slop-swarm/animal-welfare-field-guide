@@ -33,6 +33,7 @@ No intervention is automatically good because it is popular, measurable, or labe
 - [Pullet rearing and later keel fractures — EU/UK (draft)](pullet-rearing-complexity-eu-uk-draft.md)
 - [Broiler growth-rate procurement — EU/UK grow-out (draft)](broiler-growth-rate-eu-uk-draft.md)
 - [Piglet castration pain mitigation — EU/UK (draft)](piglet-castration-pain-mitigation-eu-uk-draft.md)
+- [Calf hot-iron disbudding pain mitigation (draft)](calf-disbudding-pain-mitigation-draft.md)
 - [Review checklist](review-checklist.md)
 
 ## License
