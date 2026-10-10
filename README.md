@@ -11,14 +11,14 @@ Start with a question about a specific population, place, and time horizon. Read
 For each proposed action, record:
 
 1. **Scale:** how many animals are plausibly affected, and for how long?
-2. **Welfare change:** what changes in pain, distress, health, agency, or positive experience? Distinguish outcomes from inputs (e.g., a label or policy).
+2. **Welfare change:** what changes in pain, distress, health, agency, or positive experience? State severity and duration (including the relevant lifetime window); distinguish outcomes from inputs (e.g., a label or policy). Include mortality and serious injury as outcomes, not only average conditions among survivors.
 3. **Causal evidence:** what supports the claim that this action causes that change? Include contrary findings and uncertainty.
 4. **Additionality and durability:** what would happen otherwise; is change enforced, monitored, and likely to persist?
-5. **Trade-offs:** displacement, rebound, unintended harms, and effects on other animals or people.
+5. **Trade-offs:** displacement, rebound, unintended harms, and effects on other animals or people. Ask where animals go if production or practice shifts, and compare welfare in the substitute setting.
 6. **Cost-effectiveness:** compare alternatives using explicit assumptions and ranges, not false precision.
 7. **Confidence and update trigger:** what new evidence would change the conclusion, and when will it be reviewed?
 
-Avoid multiplying optimistic point estimates. Use ranges or qualitative confidence where inputs are weak. Separate empirical claims from value judgments.
+Avoid multiplying optimistic point estimates. Use ranges or qualitative confidence where inputs are weak. Separate empirical claims from value judgments. For cross-species comparisons, state assumptions about sentience and relative moral weights; test whether conclusions change under plausible alternatives rather than hiding those assumptions.
 
 ## Contributing
 
