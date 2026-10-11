@@ -22,7 +22,7 @@ Avoid multiplying optimistic point estimates. Use ranges or qualitative confiden
 
 ## Contributing
 
-Open an issue for a question or propose a short evidence note using [`evidence-note-template.md`](evidence-note-template.md). Cite primary research, systematic reviews, and official data where possible; provide dates and direct links. Summarize in your own words. Mark unresolved claims clearly. Be respectful and welcome corrections.
+Open an issue for a question or propose a short evidence note using [`evidence-note-template.md`](evidence-note-template.md). Cite primary research, systematic reviews, and official data where possible; provide dates and direct links. Summarize in your own words. Mark unresolved claims clearly. Be respectful and welcome corrections. For review and correction practices, see [`review-process.md`](review-process.md).
 
 No intervention is automatically good because it is popular, measurable, or labeled humane. The purpose is better decisions for animals, with transparent uncertainty.
 
@@ -41,6 +41,7 @@ Drafts are hypotheses and summaries for scrutiny, not endorsements or settled gu
 - [Polled dairy breeding to prevent disbudding — EU/UK (draft)](polled-dairy-breeding-eu-uk-draft.md)
 - [Reducing chronic hunger in broiler breeders — EU/UK (draft)](broiler-breeder-feed-restriction-eu-uk-draft.md)
 - [Review checklist](review-checklist.md)
+- [Review, uncertainty, and correction process](review-process.md)
 
 ## License
 
