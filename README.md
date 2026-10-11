@@ -39,6 +39,7 @@ Drafts are hypotheses and summaries for scrutiny, not endorsements or settled gu
 - [Piglet castration pain mitigation — EU/UK (draft)](piglet-castration-pain-mitigation-eu-uk-draft.md)
 - [Calf hot-iron disbudding pain mitigation (draft)](calf-disbudding-pain-mitigation-draft.md)
 - [Polled dairy breeding to prevent disbudding — EU/UK (draft)](polled-dairy-breeding-eu-uk-draft.md)
+- [Farmed fish pre-slaughter stunning — global (draft)](fish-slaughter-stunning-global-draft.md)
 - [Reducing chronic hunger in broiler breeders — EU/UK (draft)](broiler-breeder-feed-restriction-eu-uk-draft.md)
 - [Review checklist](review-checklist.md)
 - [Review, uncertainty, and correction process](review-process.md)
