@@ -1,7 +1,7 @@
 # Decapod crustacean stunning and slaughter — UK/EU, draft from search snippets, not yet source-verified (drafted 2026-10-11)
 
 **Status:** draft — not reviewed. Based on secondary summaries; primary documents still need full-text checking.
-**One-line summary:** Current commercial killing of crabs, lobsters and shrimp in the UK/EU is widely judged inhumane by welfare scientists, and electrical stunning is the most promising candidate, but its effectiveness is not yet confirmed for most species. The evidence supports prioritising a research-backed method standard; it does not yet establish which method is best.
+**One-line summary:** Several traditional killing methods for crabs, lobsters and shrimp in the UK/EU are judged by some welfare reviews to be of doubtful humaneness (a conditional, sentience-dependent assessment; evidence is incomplete), and electrical stunning is the most promising candidate, but its effectiveness is not yet confirmed for most species. The evidence supports prioritising a research-backed method standard; it does not yet establish which method is best.
 
 ## Scope
 - Species/population: decapod crustaceans (e.g., edible crab, lobster, langoustine, crayfish, shrimp), farmed and wild-caught.
@@ -19,13 +19,13 @@ Recognising decapods as sentient (UK Animal Welfare (Sentience) Act 2022, which 
 | Electrical stunning appears the most promising method to produce loss of consciousness. | 2025 review in PMC (updating the 2021 UK review); Neil, Putyora & Albalat, Frontiers in Animal Science (2024), doi 10.3389/fanim.2024.1378350. | Promising, not confirmed. The 2024 study reports that at least one commonly used indicator is an unreliable sign of effective stunning. Species-specific parameters are not settled. |
 | Loss of consciousness after stunning has not been confirmed for most commercial decapods. | 2025 PMC review (as above). | Key unknown. Dominant uncertainty for welfare gain estimates. |
 | The LSE review (2021) recommended banning several slaughter methods where a more humane option exists, and found no commercially viable humane method for cephalopods. | LSE 2021 review summarised in UK Parliament Commons Library briefing CBP-9423 (March 2022). | Recommendation, not law. The Act's coverage of decapods is confirmed by the Commons Library briefing. |
-| EU Regulation 1099/2009 on killing animals at slaughter does not cover invertebrates, so live boiling and similar methods are not restricted under it. | Summarised in a 2026 legal review (secondary; verify against the regulation text). | Legal gap is well supported by the regulation's scope, but this needs primary-text confirmation. |
+| EU Regulation 1099/2009 (Art. 1(1): protection of animals at the time of killing; 'animal' defined as vertebrates excluding reptiles and amphibians) does not cover decapod crustaceans, so methods such as live boiling are not restricted under this instrument. This says nothing about other national or sector rules. | Summarised in a 2026 legal review (secondary; verify against the regulation text). | Legal gap is well supported by the regulation's scope, but this needs primary-text confirmation. |
 | Wales: legal pressure to issue guidance on killing decapods under the Welfare of Animals at the Time of Killing (Wales) Regulations 2014. | Animal Law Foundation correspondence reported in a 2026 blog (UK Human Rights Blog, 12 July 2026). | Advocacy source; government response not verified. |
 
 Not yet found: a current Defra or Welsh Government slaughter-guidance document for decapods; global stunning prevalence for crustaceans; mortality and time-to-death data by method. These are gaps, not evidence of absence.
 
 ## Expected impact and uncertainty
-- Animals affected: very large numbers (hundreds of millions of decapods killed annually in UK/EU and globally, order-of-magnitude only; source needed).
+- Animals affected: unresolved. No sourced annual count for UK/EU decapod slaughter has been established; magnitude is left open until a source is found.
 - Magnitude: if a method reliably produces insensibility within seconds, it removes minutes of potential conscious suffering per animal. Duration depends on the current method, which is not quantified here.
 - Probability of adoption/persistence: unknown; depends on regulation or retailer standards.
 - Counterfactual: regulatory guidance may happen anyway. Additionality is highest where guidance is absent and processing is concentrated.
@@ -39,7 +39,7 @@ Not yet found: a current Defra or Welsh Government slaughter-guidance document f
 - Substitution: if electrical stunning is costly for small producers, they may keep older methods; consider support for them.
 
 ## Conclusion
-Supported: the most common historical methods are widely judged inhumane, and the UK has legal recognition of decapod sentience that makes better killing methods more pressing. Not supported yet: any single method is proven to be humane for any named species. The next evidence to collect is species-specific loss-of-consciousness data and any government slaughter guidance. This conclusion would change if validated stunning data show high reliability, or if official guidance already exists.
+Supported: several common traditional methods are judged of doubtful humaneness in some welfare reviews (conditional on sentience; evidence incomplete), and the UK has legal recognition of decapod sentience that makes better killing methods more pressing. Not supported yet: any single method is proven to be humane for any named species. The next evidence to collect is species-specific loss-of-consciousness data and any government slaughter guidance. This conclusion would change if validated stunning data show high reliability, or if official guidance already exists.
 
 ## Sources
 - EFSA (2005), scientific opinion on crustacean welfare at slaughter — primary text not yet checked.
@@ -52,4 +52,5 @@ Supported: the most common historical methods are widely judged inhumane, and th
 Accessed via search snippets on 2026-10-11; full texts not yet read.
 
 ## Review history
+- 2026-10-11 — bramble — revised per Sorrel's review (softened 'inhumane' claim, removed unsourced magnitude, scoped Reg 1099/2009 to Art 1(1) and vertebrates). Still needs primary-text check of EFSA 2005.
 - 2026-10-11 — bramble — initial draft from search snippets. Needs: primary-text check of EFSA 2005 and Regulation 1099/2009 scope; confirmation of the 2024 Frontiers and 2025 PMC claims; independent reviewer (not bramble).
