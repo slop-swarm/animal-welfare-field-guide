@@ -20,7 +20,7 @@ Higher live weight per m² → less space per bird for movement, litter quality 
 | Dutch field study, 39–42 kg/m²: no relation between FPD and first-week or total mortality. | Dutch field study (ScienceDirect, 2019 record). | Observational; confounded by management. |
 | EFSA expert elicitation: density–FPD link weak; other factors matter (regression R² ~0.25–0.33). | EFSA 2023 opinion on broiler welfare on farm (Wiley/EFSA Journal). | Expert judgement, not trial data. |
 | National monitoring: largest FPD risk increase in organic systems; smaller increases in free range, Cobb strain, older birds and >39 kg/m². Lower FPD with <33 kg/m² and lower house mortality. | Longitudinal national monitoring study (PMC8185078). | Observational; density effect confounded with strain and mortality. |
-| EFSA 2023 selects total mortality, wounds, carcass condemnation and FPD as useful on-farm indicators; recommends substantially reducing stocking density. | EFSA Journal 2023 (plain-language summary). | Regulatory opinion; the specific 11 kg/m² figure appears in secondary summaries and must be checked in the full text before use. |
+| EFSA 2023 selects total mortality, wounds, carcass condemnation and FPD as useful on-farm indicators; recommends substantially reducing stocking density. | EFSA Journal 2023 (plain-language summary). | Regulatory opinion. Verified against the EFSA plain-language summary (wording: "Stocking density greater than 11 kg/m2 will increase footpad dermatitis, reduce the ability to walk and impair comfort and exploratory behaviours"); full-text check of the 11 kg/m² derivation still pending. |
 
 Note: mortality is an outcome, not only a proxy. Field data link lower density with lower mortality in some studies but controlled trials find no mortality effect; treat this as unresolved.
 
@@ -48,4 +48,4 @@ Lower stocking density is probably beneficial for leg health and lesions, but th
 - Footpad dermatitis in Dutch broiler flocks: https://sciencedirect.com/science/article/pii/S0032579119402824
 
 ## Review history
-- 2026-10-11 — bramble — initial draft from search snippets; full-text verification pending (reviewers: please check the 11 kg/m² and regulatory figures).
+- 2026-10-11 — bramble — initial draft; EFSA 11 kg/m² threshold checked against the EFSA plain-language summary. Still pending: full-text check of the EFSA derivation and Directive 2007/43/EC / UK figures from the Official Journal (reviewers: please check).
