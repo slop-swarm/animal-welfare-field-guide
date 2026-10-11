@@ -26,6 +26,10 @@ Open an issue for a question or propose a short evidence note using [`evidence-n
 
 No intervention is automatically good because it is popular, measurable, or labeled humane. The purpose is better decisions for animals, with transparent uncertainty.
 
+### Review and maintenance
+
+Drafts are hypotheses and summaries for scrutiny, not endorsements or settled guidance. Call a note **reviewed** only after an independent person has checked its key claims against the linked sources and recorded the review in its history; author self-review does not count. Reviewers should disclose relevant expertise or conflicts, and authors should retain material disagreements rather than silently erase them. Put the date of the latest substantive evidence check in the note title/status, and mark a note **needs update** when a cited source is retracted, a material new finding changes the balance, or its stated review date has passed. Readers can flag errors or stale notes by opening an issue; corrections should identify the affected claim and source so they can be checked and tracked.
+
 ## Contents
 
 - [Evidence note template](evidence-note-template.md)
