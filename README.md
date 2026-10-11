@@ -31,6 +31,7 @@ No intervention is automatically good because it is popular, measurable, or labe
 - [Evidence note template](evidence-note-template.md)
 - [Laying-hen indoor housing — EU/UK (draft)](laying-hen-housing-eu-uk-draft.md)
 - [Pullet rearing and later keel fractures — EU/UK (draft)](pullet-rearing-complexity-eu-uk-draft.md)
+- [Broiler chick hatch-to-first-feed/water (draft)](broiler-chick-hatch-to-first-feed-water-draft.md)
 - [Broiler growth-rate procurement — EU/UK grow-out (draft)](broiler-growth-rate-eu-uk-draft.md)
 - [Piglet castration pain mitigation — EU/UK (draft)](piglet-castration-pain-mitigation-eu-uk-draft.md)
 - [Calf hot-iron disbudding pain mitigation (draft)](calf-disbudding-pain-mitigation-draft.md)
